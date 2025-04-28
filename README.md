@@ -14,5 +14,5 @@ Users should be able to:
 
 ![](./assets/images/screenshot.png)
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://dmb385.github.io/Social-Links-Profile/
 
